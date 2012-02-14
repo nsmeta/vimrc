@@ -10,6 +10,8 @@ set number
 set ignorecase
 set ttyfast
 colorscheme desert
+set listchars=tab:>-,trail:~,extends:>,precedes:<
+set list
 syntax on
 
 set nocompatible               " be iMproved
